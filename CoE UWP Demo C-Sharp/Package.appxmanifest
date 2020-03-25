@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="9ef2118d-dfbd-4442-83ce-bae7fd4c4ec7"
-    Publisher="CN=AACF7ZZ"
+    Name="3MCompany.3MMobileCoE"
+    Publisher="CN=9911D3C5-B607-4F7C-AAD4-21AD9CE6A1E1"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="9ef2118d-dfbd-4442-83ce-bae7fd4c4ec7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="bd3e1285-104d-402f-a261-a4b16adb4fa3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>CoE UWP Demo C-Sharp</DisplayName>
-    <PublisherDisplayName>AACF7ZZ</PublisherDisplayName>
+    <DisplayName>3M Mobile CoE</DisplayName>
+    <PublisherDisplayName>3M Company</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -32,7 +32,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="CoE_UWP_Demo_C_Sharp.App">
       <uap:VisualElements
-        DisplayName="CoE UWP Demo C-Sharp"
+        DisplayName="3M Mobile CoE"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\CoE_ICON.png"
         Description="CoE UWP Demo C-Sharp"

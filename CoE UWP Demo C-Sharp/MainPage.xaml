@@ -22,7 +22,7 @@
         </Button>
 
         <Image Source="Assets\App_Development.jpg" 
-               Margin="67,230,67,379"
+               Margin="28,256,28,320"
                Name="CoE_Icon">
         </Image>
 
