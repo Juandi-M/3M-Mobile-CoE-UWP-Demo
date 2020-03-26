@@ -140,11 +140,10 @@
   <ItemGroup>
     <Content Include="Assets\3m logo.png" />
     <Content Include="Assets\3M Splash.scale-100.png" />
-    <Content Include="Assets\3M Splash.scale-125.png" />
-    <Content Include="Assets\3M Splash.scale-150.png" />
     <Content Include="Assets\3M Splash.scale-200.png" />
     <Content Include="Assets\3M Splash.scale-400.png" />
     <Content Include="Assets\App_Development.jpg" />
+    <None Include="Package.StoreAssociation.xml" />
     <Content Include="Assets\BadgeLogo.scale-100.png" />
     <Content Include="Assets\BadgeLogo.scale-200.png" />
     <Content Include="Assets\BadgeLogo.scale-400.png" />
@@ -157,10 +156,21 @@
     <Content Include="Assets\CoE_ICON.targetsize-16.png" />
     <Content Include="Assets\CoE_ICON.targetsize-256.png" />
     <Content Include="Assets\CoE_ICON.targetsize-48.png" />
+    <Content Include="Assets\LargeTile.scale-100.png" />
+    <Content Include="Assets\LargeTile.scale-200.png" />
+    <Content Include="Assets\LargeTile.scale-400.png" />
+    <Content Include="Assets\SmallTile.scale-100.png" />
+    <Content Include="Assets\SmallTile.scale-200.png" />
+    <Content Include="Assets\SmallTile.scale-400.png" />
+    <Content Include="Assets\Square150x150Logo.scale-100.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-400.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-200.png" />
     <Content Include="Assets\StoreLogo.scale-400.png" />
-    <None Include="Package.StoreAssociation.xml" />
+    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-400.png" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
   <ItemGroup>

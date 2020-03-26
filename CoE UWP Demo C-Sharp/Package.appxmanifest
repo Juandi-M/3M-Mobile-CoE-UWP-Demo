@@ -9,7 +9,7 @@
   <Identity
     Name="3MCompany.3MMobileCoE"
     Publisher="CN=9911D3C5-B607-4F7C-AAD4-21AD9CE6A1E1"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="bd3e1285-104d-402f-a261-a4b16adb4fa3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
@@ -37,7 +37,7 @@
         Square44x44Logo="Assets\CoE_ICON.png"
         Description="CoE UWP Demo C-Sharp"
         BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" ShortName="3mIcon" Square71x71Logo="Assets\SmallTile.png" Square310x310Logo="Assets\LargeTile.png"/>
         <uap:SplashScreen Image="Assets\3M Splash.png"  BackgroundColor="#c0c0c0"/>
         <uap:InitialRotationPreference>
           <uap:Rotation Preference="portrait"/></uap:InitialRotationPreference>
